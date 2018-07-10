@@ -168,11 +168,11 @@ contract StandardToken is ERC20, BasicToken {
 }
 
 /**
- * @title Relatives Chain is Standard ERC20 token
+ * @title QQBToken is Standard ERC20 token
  */
 contract QQBToken is StandardToken {
 
-    string public name = "Relatives Chain";
+    string public name = "Qualified Quality Block ";
     string public symbol = "QQB";
     uint public decimals = 8;
 	
