@@ -1,2 +1,2 @@
 # token
-Relatives Chain token contract
+QQB token contract
